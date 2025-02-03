@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="https://www.w3.org/2005/Atom"
+  xmlns:content="https://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>苏晓河DawnRiver</title>
+    <link>https://www.sxiaohe.top/</link>
+    
+    <image>
+      <url>https://jsd.cdn.zzko.cn/gh/ccknbc-backup/cdn/logo/logo.png</url>
+      <title>苏晓河DawnRiver</title>
+      <link>https://www.sxiaohe.top/</link>
+    </image>
+    
+    <atom:link href="https://www.sxiaohe.top/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    <subtitle>博客</subtitle>
+    <pubDate>Sun, 02 Feb 2025 10:17:03 GMT</pubDate>
+    <generator>https://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.sxiaohe.top/posts/undefined/</link>
+      <guid>https://www.sxiaohe.top/posts/undefined/</guid>
+      <pubDate>Mon, 03 Feb 2025 05:54:53 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description></description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start">Quick Start<a class="fa-solid fa-hashtag" href="#Quick-Start"></a></h2><h3 id="Create-a-new-post">Create a new post<a class="fa-solid fa-hashtag" href="#Create-a-new-post"></a></h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server">Run server<a class="fa-solid fa-hashtag" href="#Run-server"></a></h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files">Generate static files<a class="fa-solid fa-hashtag" href="#Generate-static-files"></a></h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites">Deploy to remote sites<a class="fa-solid fa-hashtag" href="#Deploy-to-remote-sites"></a></h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
+      
+      
+      <category domain="https://www.sxiaohe.top/categories/test/">test</category>
+      
+      
+      
+      <comments>https://www.sxiaohe.top/posts/undefined/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
